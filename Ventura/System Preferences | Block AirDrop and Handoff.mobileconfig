@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DisabledSettingsExtensions</key>
+			<array>
+				<string>com.apple.AirDrop-Handoff-Settings.extension</string>
+			</array>
+			<key>PayloadDisplayName</key>
+			<string>System Preferences #1</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.systempreferences.E84F3723-E3C9-4C61-BD52-476C84B7FDA2</string>
+			<key>PayloadType</key>
+			<string>com.apple.systempreferences</string>
+			<key>PayloadUUID</key>
+			<string>E84F3723-E3C9-4C61-BD52-476C84B7FDA2</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Block AirDrop and Handoff access</string>
+	<key>PayloadDisplayName</key>
+	<string>System Preferences | Block AirDrop and Handoff</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.systempreferences</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>077A10B0-4270-48F2-94BC-E09B873AB2DB</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

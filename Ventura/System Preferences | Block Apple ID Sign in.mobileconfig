@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DisabledPreferencePanes</key>
+			<array>
+				<string>com.apple.preferences.AppleIDPrefPane</string>
+			</array>
+			<key>PayloadDisplayName</key>
+			<string>System Preferences #1</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.systempreferences.78C9EE6D-C667-404D-9171-5B15982B73A3</string>
+			<key>PayloadType</key>
+			<string>com.apple.systempreferences</string>
+			<key>PayloadUUID</key>
+			<string>78C9EE6D-C667-404D-9171-5B15982B73A3</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Blocks access to sign in with Apple ID</string>
+	<key>PayloadDisplayName</key>
+	<string>System Preferences | Block Apple ID Sign in</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.systempreferences</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>EA4B6907-0409-4065-A78E-F85522402C52</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
