@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DisabledPreferencePanes</key>
+			<array>
+				<string>com.apple.preference.printfax</string>
+			</array>
+			<key>DisabledSettingsExtensions</key>
+			<array>
+				<string>com.apple.Print-Scan-Settings.extension</string>
+			</array>
+			<key>PayloadDisplayName</key>
+			<string>System Preferences #1</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.systempreferences.D24FC70F-CFC3-4E23-BB43-E4B52330FC0C</string>
+			<key>PayloadType</key>
+			<string>com.apple.systempreferences</string>
+			<key>PayloadUUID</key>
+			<string>D24FC70F-CFC3-4E23-BB43-E4B52330FC0C</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Block access to printers and scanners</string>
+	<key>PayloadDisplayName</key>
+	<string>System Settings | Block Printing and Scanners</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.systempreferences</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>AD8DF889-7B3C-46A8-A133-641C45890907</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

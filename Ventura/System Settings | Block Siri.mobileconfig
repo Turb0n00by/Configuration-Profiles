@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DisabledPreferencePanes</key>
+			<array>
+				<string>com.apple.preference.speech</string>
+			</array>
+			<key>DisabledSettingsExtensions</key>
+			<array>
+				<string>com.apple.Siri-Settings.extension</string>
+			</array>
+			<key>PayloadDisplayName</key>
+			<string>System Preferences #1</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.systempreferences.51A42C32-86DE-4214-AFE4-54ECA448E267</string>
+			<key>PayloadType</key>
+			<string>com.apple.systempreferences</string>
+			<key>PayloadUUID</key>
+			<string>51A42C32-86DE-4214-AFE4-54ECA448E267</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Blocks access to siri in system settings</string>
+	<key>PayloadDisplayName</key>
+	<string>System Settings | Block Siri</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.systempreferences</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>7D5229BF-8856-4773-9A60-43B3FB4631FC</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
